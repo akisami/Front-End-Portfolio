@@ -1,4 +1,4 @@
-var app = angular.module("menuApp", []);
+var app = angular.module("website", []);
 
 app.controller("appController", ($scope) => {
 
